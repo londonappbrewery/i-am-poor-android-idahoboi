@@ -17,7 +17,9 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
+        android:paddingTop="60dp"
         android:text="I Am Poor"
+        android:textAlignment="center"
         android:textColor="@android:color/black"
         android:textSize="40sp" />
 
